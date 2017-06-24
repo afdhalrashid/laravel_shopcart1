@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopping-cart.iml" filepath="$PROJECT_DIR$/.idea/shopping-cart.iml" />
+      <module fileurl="file://F:/xampp/htdocs/test_FlashSale/.idea/test_FlashSale.iml" filepath="F:/xampp/htdocs/test_FlashSale/.idea/test_FlashSale.iml" />
+    </modules>
+  </component>
+</project>
